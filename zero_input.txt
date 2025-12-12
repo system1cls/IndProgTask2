@@ -1,0 +1,33 @@
+Accounts 4
+5987 # debit # 100000.0 # RUB
+87468 # debit # 10000.0 # YUAN
+87941 # debit # 1000.0 # USD
+48921 # debit # 1000.0 # EUR
+Deposits 0
+Credits 0
+Clients 4
+1 # Donatello # Individual Client
+2 # Raphael # Legal Entity
+3 # Mickel # Individual Client
+4 # Leonardo # VIP Individual Client
+Client Deposit 0
+Bank Accounts 4
+5987
+87468
+87941
+48921
+Client Credit 0
+Work Places 4
+Client Manager # 5
+Cash Desk # 5
+Currency Exchange # 5
+VIP Client Manager # 5
+Exchange Rates 2
+RUB # USD # 0.0125
+USD # RUB # 80
+0 # 8:0 # Start of Bank Day
+0 # 8:45 # Personal Appeal # Donatello # Individual # 1
+Create Account # RUB
+0 # 9:0 # Personal Appeal # Donatello # Individual # 1
+Create Account # USD
+0 # 19:0 # End of Bank Day
